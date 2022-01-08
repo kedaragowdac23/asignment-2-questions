@@ -1,0 +1,4 @@
+1.Write a program for multiplication of two matrices using OOP.
+
+2.Write a program to find the greatest of two given numbers in two different classes using friend 
+function.
